@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# My first React app that integrates the MUI library
+
+MUI library https://mui.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
